@@ -16,11 +16,12 @@ To list tags:
     
   
   
-To delete tag locally: 
+To delete tag local: 
     git tag --delete origin tag_name 
    
    
 To delete tag remote :
-    
+    git push --delete origin v1.7
+
     
  
