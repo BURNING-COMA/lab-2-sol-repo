@@ -12,10 +12,12 @@ To list tags:
     git tag 
     or git tab --list 
     
+ To push tag to remote repo: git push repo-name tag-name
+    
   
   
 To delete tag locally: 
-    git tag --delete tag_name 
+    git tag --delete origin tag_name 
    
    
 To delete tag remote :
